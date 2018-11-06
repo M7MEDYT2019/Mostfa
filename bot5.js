@@ -6,26 +6,26 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "506084858762756106"; // ايدي السررفر
-var channel = "506106137192562688";//ايدي الروم
+var server = "506883940204675103"; // ايدي السررفر
+var channel = "509340794633715712";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** YTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYTYT **')
+    client.guilds.get(server).channels.get(channel).send('** محمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمدمحمد **')
     },305);
 })
 
 
 
 client.on('ready', async() => {
-var server = "506084858762756106"; // ايدي السررفر
-var channel = "506106137192562688";//ايدي الروم
+var server = "506883940204675103"; // ايدي السررفر
+var channel = "509340794633715712";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#daily')
     },8.64e+7);
 })
 
 client.on('ready', async() => {
-var server = "506084858762756106"; // ايدي السررفر
-var channel = "506106137192562688";//ايدي الروم
+var server = "506883940204675103"; // ايدي السررفر
+var channel = "509340794633715712";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#rep <@314135031029170197>')
     },8.64e+7);
@@ -34,7 +34,7 @@ var channel = "506106137192562688";//ايدي الروم
 
 client.on('message', message => {
 if(message.content.startsWith('5s')) {
-if(message.author.id !== "420637382644072451") return;
+if(message.author.id !== "312309921314111498") return;
 var args = message.content.split(' ').slice(1).join(' ');
 message.channel.send(args);
 }
