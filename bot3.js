@@ -27,14 +27,14 @@ client.on('ready', async() => {
 var server = "506883940204675103"; // ايدي السررفر
 var channel = "509340794633715712";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('#rep <@314135031029170197>')
+    client.guilds.get(server).channels.get(channel).send('#rep <@306464381775118336>')
     },8.64e+7);
 })
 
 
 client.on('message', message => {
 if(message.content.startsWith('3s')) {
-if(message.author.id !== "312309921314111498") return;
+if(message.author.id !== "306464381775118336") return;
 var args = message.content.split(' ').slice(1).join(' ');
 message.channel.send(args);
 }
