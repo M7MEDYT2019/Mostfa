@@ -40,7 +40,29 @@ message.channel.send(args);
 }
 });
  
+client.on('message', message => {
+	if(message.content === '1'){
+        message.channel.send('#daily')
+    }
+});
 
+client.on('message', message => {
+	if(message.content === '2'){
+        message.channel.send('#credit')
+    }
+});
+
+client.on('message', message => {
+	if(message.content === '3'){
+        message.channel.send('#rep <@306464381775118336>')
+    }
+});
+
+client.on('message', message => {
+     if(message.content === '4'){
+        message.member.voiceChannel.join();
+    }
+});
 
 
 
