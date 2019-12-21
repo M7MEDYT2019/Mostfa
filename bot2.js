@@ -9,7 +9,7 @@ client.on('ready', async() => {
 var server = "493627472647028745"; // ايدي السررفر
 var channel = "493628074685104130";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** https://discord.gg/pornhubكس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة  كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة كس امك يابيليـــن الشرموطة **')
+    client.guilds.get(server).channels.get(channel).send('** Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة Denver Lozano Is Here بيلين شرموطة  Denver Lozano Is Here بيلين شرموطة **')
     },305);
 })
 
